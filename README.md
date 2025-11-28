@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kevinryouinoue&label=Profile%20views&color=0e75b6&style=flat" alt="kevinryouinoue" /> </p>
 
 - 👨‍🎓 I am a new grad at the University of Toronto
-- 🖥️ Majoring in Chemistry
+- 🖥️ Switched career from scientist to software developer
 - ✅ Currently working back-end software engineering at Goh Lab 
 - 🧠 Currently working Cloud Infra development in Rakuten
 - 📧 How to reach me: kevininoue0131@gmal.com
