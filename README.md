@@ -1,11 +1,11 @@
-<h1 align="center">Kevin Ryou Inoue</h1>
+<h1 align="center">👋 Hello there! I'm Kevin Inoue</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kevinryouinoue&label=Profile%20views&color=0e75b6&style=flat" alt="kevinryouinoue" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kevinryouinoue" alt="kevinryouinoue" /></a> </p>
-
-- 🔭 I’m currently working on **Rakuten**
-
-- 📫 How to reach me **kevininoue0131@gmail.com**
+👨‍🎓 I am a new grad at the University of Toronto
+🖥️ Majoring in Chemistry
+✅ Currently working back-end software engineering at Goh Lab 
+🧠 Currently working Cloud Infra development in Rakuten
+📧 How to reach me: kevininoue0131@gmal.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
