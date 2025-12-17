@@ -4,7 +4,7 @@
 - 👨‍🎓 I am a new grad at the University of Toronto
 - 🖥️ Switched career from scientist to software developer
 - ✅ Currently working back-end software engineering at Goh Lab 
-- 🧠 Currently working Cloud Infra development in Rakuten
+- 🧠 Currently working as a Software engineer in Rakuten mobile.
 - 📧 How to reach me: kevininoue0131@gmal.com
 
 <h3 align="left">Connect with me:</h3>
