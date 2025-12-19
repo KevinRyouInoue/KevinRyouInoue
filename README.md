@@ -6,7 +6,7 @@
 - ✅ Currently working back-end software engineering at Goh Lab 
 - 🧠 Currently working as a Software engineer in Rakuten mobile.
 - 📧 How to reach me: kevininoue0131@gmal.com
-
+<h2 align="left">My Portfolio! https://portfolio-kevin-inoue-ryou.vercel.app/</h2>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/inoue-kevin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/inoue-kevin/" height="30" width="40" /></a>
